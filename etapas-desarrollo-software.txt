@@ -1,0 +1,6 @@
+analisis
+diseño
+codificación
+prueba
+despliegue
+mantenimiento
